@@ -15,7 +15,7 @@ Code has been developed in R, but support of QGIS has been used to extract some 
 
 * [RStudio](https://posit.co/download/rstudio-desktop/)
 * [RMarkdown](https://rmarkdown.rstudio.com/)
-* [QGIS](https://www.qgis.org/es/site/))
+* [QGIS](https://www.qgis.org/es/site/)
 
 ## Documentation
 This repository includes:
