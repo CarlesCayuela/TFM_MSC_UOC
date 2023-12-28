@@ -24,4 +24,4 @@ This repository includes:
 * A document **Rmarkdown** with the code used to develop the project
   
 ## Liscence
-Creative Commons (CC BY-NC-ND 3.0)
+Creative Commons [(CC BY-NC-ND 3.0)](https://creativecommons.org/licenses/by-nc-nd/3.0/es/)
