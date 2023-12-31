@@ -21,7 +21,8 @@ Code has been developed in R, but support of QGIS has been used to extract some 
 This repository includes:
 
 * The **dataset** used to develop a Artificial Neural Network
-* A document **Rmarkdown** (called implementation) with the code used to develop the project
+* A document **Rmarkdown** (called implementation) with the code used to develop the project that can be acced from here: https://htmlpreview.github.io/?https://github.com/CarlesCayuela/TFM_MSC_UOC/blob/main/Implementation.html
+
   
 ## Liscence
 Creative Commons [(CC BY-NC-ND 3.0)](https://creativecommons.org/licenses/by-nc-nd/3.0/es/)
